@@ -7,3 +7,5 @@
 * [6.824 Home](https://pdos.csail.mit.edu/6.824/)
 * [6.824 Schedule](https://pdos.csail.mit.edu/6.824/schedule.html)
 * [6.824 Video](https://www.bilibili.com/video/BV1R7411t71W)
+* [6.828 作业](https://github.com/amazingchow/mit-6.824-solutions)
+* [6.828 作业参考解法](https://github.com/EdwinHu233/MIT-6.824)
